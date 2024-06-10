@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/juner-pagal/react-activity1/static/css/main.e9cf4840.css",
+    "main.js": "/juner-pagal/react-activity1/static/js/main.e3c88252.js",
+    "static/js/453.ed3810f9.chunk.js": "/juner-pagal/react-activity1/static/js/453.ed3810f9.chunk.js",
+    "static/media/product1.jpg": "/juner-pagal/react-activity1/static/media/product1.4a208a73314283b82154.jpg",
+    "static/media/product2.jpg": "/juner-pagal/react-activity1/static/media/product2.0feb5f04c97f65ad9eb4.jpg",
+    "static/media/product3.jpg": "/juner-pagal/react-activity1/static/media/product3.ac3aa0f5224bab5ada4c.jpg",
+    "index.html": "/juner-pagal/react-activity1/index.html",
+    "main.e9cf4840.css.map": "/juner-pagal/react-activity1/static/css/main.e9cf4840.css.map",
+    "main.e3c88252.js.map": "/juner-pagal/react-activity1/static/js/main.e3c88252.js.map",
+    "453.ed3810f9.chunk.js.map": "/juner-pagal/react-activity1/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9cf4840.css",
+    "static/js/main.e3c88252.js"
+  ]
+}
